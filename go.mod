@@ -1,4 +1,4 @@
-module yatee.net/tmp
+module sfyatee.com/tmp
 
 go 1.23.5
 
